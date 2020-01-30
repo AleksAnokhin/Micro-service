@@ -1,0 +1,7 @@
+{
+  "type" : "Event",
+  "public": "true",
+  "channel": "bus",
+  "access_tokens": "['abc','dfg','ufc']",
+  "secret_message": "this secret message only for private person"
+}
